@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm NotchArrow</h1>
 
-### Currently learning Java & Minecraft Fabric Modding
-### [Modrinth Profile](https://modrinth.com/user/NotchArrow/)
-### The best way to contact me is in my [Discord](https://discord.gg/ZCaGkZeb4C)
+You probably know me from my Minecraft mods hosted on my **[Modrinth Profile](https://modrinth.com/user/NotchArrow/)**.
 
-***
+If you'd like to contact me, then please join my **[Discord](https://discord.gg/ZCaGkZeb4C)**. You can DM me directly from the server if you need to!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### About Me
+I'm a high school programmer who is primarily self-taught. I've always felt like my classes are behind the skill level that I'm at from my personal projects, so I'm constantly looking for new resources.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notcharrow&show_icons=true&locale=en&layout=compact" alt="notcharrow" /></p>
+Most of my experience is in Python and Java. I've also taken an online course in HTML and CSS, which has helped me with browser automation projects in the past and some smaller unfinished websites.
+
+### What I'm Doing
+- I'm currently continuing to expand my Java knowledge as I work on my Minecraft mods to create updates, new features, and new mods.
+- I'm also doing a research project on Artificial Neural Networks and Hidden Layers, which means I'm learning Python frameworks and Linear Algebra concepts. I'll share more about that here when I'm further into the project!
+- I plan on learning C++ for memory management and JavaScript to help with my frontend development. I also want to continue studying computer architecture and binary logic.
+
+I have a lot of goals and I'm sure you do too! If you read this far, then there's probably a reason. **[Reach out to me!](https://discord.gg/ZCaGkZeb4C)**
