@@ -12,6 +12,6 @@ Most of my experience is in Python and Java. I've also taken an online course in
 ### What I'm Doing
 - I'm currently continuing to expand my Java knowledge as I work on my Minecraft mods to create updates, new features, and new mods.
 - I'm also doing a research project on Artificial Neural Networks and Hidden Layers, which means I'm learning Python frameworks and Linear Algebra concepts. I'll share more about that here when I'm further into the project!
-- I plan on learning C++ for memory management and JavaScript to help with my frontend development. I also want to continue studying computer architecture and binary logic.
+- I plan on learning C for memory management and JavaScript to help with my frontend development. I also want to continue studying computer architecture and binary logic.
 
 I have a lot of goals and I'm sure you do too! If you read this far, then there's probably a reason. **[Reach out to me!](https://discord.gg/ZCaGkZeb4C)**
