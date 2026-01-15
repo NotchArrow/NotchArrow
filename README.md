@@ -13,7 +13,9 @@ I have a lot of interest and some experience in subfields like Machine Learning 
 
 ### What I'm Doing
 - I'm currently continuing to expand my Java knowledge as I work on my Minecraft mods to create updates, new features, and new mods.
-- I'm also doing a research project on Artificial Neural Networks and Hidden Layers, which means I'm learning Python frameworks and Linear Algebra concepts. I'll share more about that here when I'm further into the project!
+- I'm also doing a research project on Artificial Neural Networks and Hidden Layers, which means I'm learning Python frameworks and Linear Algebra concepts. It's linked **[here!](https://github.com/NotchArrow/ANN-Research-Project)**
 - Most of my current projects revolve around computer architecture. I'm working on CPU design in Turing Complete and wiring logic using Arduino.
 
 I have a lot of goals and I'm sure you do too! If you read this far, then there's probably a reason. **[Reach out to me!](https://discord.gg/ZCaGkZeb4C)**
+
+I'm also working on a portfolio website and a list of resources for other self-taught programmers.
