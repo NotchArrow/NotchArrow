@@ -1,7 +1,7 @@
 ```json
 {
   "username": "NotchArrow",
-  "status": "Emerging Systems Engineer",
+  "status": "Emerging Computer Engineer",
   "education": "High School Junior",
   "discord": "https://discord.gg/ZCaGkZeb4C",
   "email": "NotchArrow@outlook.com",
