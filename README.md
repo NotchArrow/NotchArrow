@@ -13,7 +13,8 @@
   "Minecraft Modding": "Creating and maintaining Fabric Minecraft mods",
   "Game Development": "Creating small 2D games and porting others to the TI-84 Calculator",
   "Web Development": "Learning JavaScript to create a portfolio website and a list of learning resources for others",
-  "Python Automation": "Various macros using PyAutoGUI and web testing using Selenium"
+  "Python Automation": "Various macros using PyAutoGUI and web testing using Selenium",
+  "3D Modeling": "Using Autodesk Inventor to model small projects and 3D print custom models"
   },
   "hobbies": ["swimming", "traveling", "playing piano"]
 }
