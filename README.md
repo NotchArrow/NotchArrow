@@ -1,8 +1,11 @@
+# [Full Portfolio](https://notcharrow.github.io/) 👋
+
 ```json
 {
   "username": "NotchArrow",
   "status": "Emerging Computer Engineer",
   "education": "High School Junior",
+  "portfolio": "https://notcharrow.github.io/",
   "discord": "https://discord.gg/ZCaGkZeb4C",
   "email": "NotchArrow@outlook.com",
   "modrinth": "https://modrinth.com/user/NotchArrow",
@@ -12,8 +15,8 @@
   "Computer Architecture": "Experimenting with custom CPU/ISA designs and Arduino circuit boards",
   "Minecraft Modding": "Creating and maintaining Fabric Minecraft mods",
   "Game Development": "Creating small 2D games and porting others to the TI-84 Calculator",
-  "Web Development": "Learning JavaScript to create a portfolio website and a list of learning resources for others",
-  "Python Automation": "Various macros using PyAutoGUI and web testing using Selenium",
+  "Web Development": "Building a portfolio using Pico.css to document project experiences and learning resources",
+  "Python Automation": "Creating various macros using PyAutoGUI and web testing using Selenium",
   "3D Modeling": "Using Autodesk Inventor to model small projects and 3D print custom models"
   },
   "hobbies": ["swimming", "traveling", "playing piano"]
